@@ -1,9 +1,13 @@
 # newBashScript
 Change your shell to zsh:
-   sudo apt-get
-   sudo apt-get install zsh git-core wget
-   wget https://github.com/ -O - | zsh
-   echo "/usr/bin/zsh" >> ~/.bashrc 
+
+sudo apt-get
+
+sudo apt-get install zsh git-core wget
+
+wget https://github.com/ -O - | zsh
+
+echo "/usr/bin/zsh" >> ~/.bashrc 
 
 
 Restart terminal
