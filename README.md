@@ -5,7 +5,7 @@ sudo apt-get
 
 sudo apt-get install zsh git-core wget
 
-wget https://github.com/ -O - | zsh
+wget https://github.com/amanjaiswal92/newBashScript/blob/master/install.sh -O - | zsh
 
 echo "/usr/bin/zsh" >> ~/.bashrc 
 
